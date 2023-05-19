@@ -3,6 +3,7 @@ variable "sample_string" {
 }
 
 ## shell scripting equivalent sample_string "hello world"
+## scripting is easy with python base!!!
 
 ## To print in shell script we are using echo, following same in terraform variables printing also
 ## echo $sample_string
